@@ -1,0 +1,2 @@
+# WorkEthicSimulator
+The NoNoWhale game
